@@ -1,5 +1,5 @@
 var car;
-var;wall
+var wall;
 
 
 
